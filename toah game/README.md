@@ -1,4 +1,4 @@
-#### Description
+### Description
 
 From an early draft of his Canterbury tales, Chaucer removed an account of the pilgrims staying at Anne Hoy’s inn, an establishment that served bad ale, but good cheese. The missing account explained how Anne kept her high-quality cheese stacked on stools, the largest rounds underneath the smaller rounds, to stop rats and mice from getting at them.
 Occasionally the stool holding the cheese would need some maintenance (for example, the legs would start to buckle under the weight), and Anne would shift the entire stack from one stool to another. Since she could only move a single (hundred-pound plus) round of cheese at one time, and she refused to stack a larger-diameter cheese round on a smaller one (the outer part of the larger cheese would droop) she used three stools: one was her destination for her entire stack of cheese, one was the source (which likely needed its legs reinforced), and the third was for intermediate stacking. Chaucer immortalized the complicated routine Anne endured, lugging rounds of cheese from stool to stool as “The tour of Anne Hoy “ (TOAH).
@@ -18,14 +18,14 @@ After experimenting a bit Anne found she could move 3 cheese rounds in 5 moves (
 This is where matters stood, for centuries, until the invention of the computer.
 
 
-#### Application
+### Application
 The Tour of Anne Hoy Game is to move a stack of cheeses from the rst stool to the last stool, using only valid moves as described in the previous paragraphs.
 
-#### Dependencies
+### Dependencies
 * python-ta (optional)
 
 
-#### Deployment
+### Deployment
 * Main Files: toah_model.py, tour.py, console_controller.py
 * Graphical Dependicies: gui_******.py
 * PYTA Files: tour_pyta.txt, toahmodel_pyta.txt, consolecontroller_pyta.txt

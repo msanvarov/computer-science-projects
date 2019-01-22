@@ -1,4 +1,4 @@
-#### Description
+### Description
 Toronto’s bike share network debuted in 2011, offering rental bikes to Torontonians and visitors in the downtown core. This network consists of hundreds of docking stations scattered around downtown. Bikes can be rented from any docking station and returned to any docking station in the city. In this assignment, you will write several functions to help manage and track bike rentals across this network. Using real data from Toronto’s bike share system, your functions will simulate bike rentals and returns as well as keep track of the current state of the network and even provide directions to riders.
 
 The data that you will work with is provided by the Toronto bike share network. The data contains information about the docking stations, such as the location of the station and how many bikes are currently available. More information about the data provided and where it comes from is given later in this handout.
@@ -7,15 +7,15 @@ The purpose of this assignment is to give you practice using the programming con
 
 This handout explains the problem you are to solve, and the tasks you need to complete for the assignment. Please read it carefully.
 
-#### Application
+### Application
 Simulates routes of a bike using data from the City of Toronto Bike Share website.
 
-#### Dependencies
+### Dependencies
 * pygame
 * python-ta (optional)
 
 
-#### Deployment
+### Deployment
 * Main Files: bikeshare.py, simulation.py
 * Graphical Dependicies: visualizer.py
 * Unittest Files: testing_sample.py

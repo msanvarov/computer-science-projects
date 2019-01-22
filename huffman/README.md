@@ -1,4 +1,4 @@
-#### Description
+### Description
 
 Data compression involves reducing the amount of space taken up by files. Anyone who has listened to an MP3 file or extracted a file from a zip archive has used compression. Reasons for compressing a file include saving disk space and reducing the time required to transfer the file to another computer.
 There are two broad classes of compression algorithms: lossy compression and lossless compression. Lossy compression means that the file gets smaller, but that some information is lost. MP3 is a form of lossy compression: it saves space by throwing away some audio information, and therefore the original audio file can not be recovered. Lossless compression means that the file gets smaller and that the original file can be recovered from the compressed file. FLAC is a form of lossless audio compression: it can’t save as much space as MP3, but it does let you perfectly recover the original file.
@@ -36,14 +36,14 @@ For this assignment, I’m asking you to do some background reading on several t
 
 You’re strongly encouraged to find and use online resources to learn this background material. Be sure to cite your sources in your assignment submission; include Python comments giving the locations of resources that you found useful.
 
-#### Application
+### Application
 Huffman Compression/Decompression involves the use of the Huffman algorithm to compress and decompress files of various sizes (ineffective if real uses but works on small files). Its decompress is inefficient to say the least. But compression works relatively quickly.
 
-#### Dependencies
+### Dependencies
 * python-ta (optional)
 
 
-#### Deployment
+### Deployment
 * Main Files: huffman.py, nodes.py
 * Sample Files: anything that isn't a python file
 * Unittests: test_huffman_properties.py

@@ -1,4 +1,4 @@
-#### Description
+### Description
 Blocky is a game with simple moves on a simple structure, but like a Rubik’s Cube, it is quite challenging to play. The game is played on a randomly-generated game board made of squares of four different colours.
 
 Each player has their own goal that they are working towards, such as creating the largest connected “blob” of blue. After each move, the player sees their score, determined by how well they have achieved their goal. The game continues for a certain number of turns, and the player with the highest score at the end is the winner.
@@ -58,15 +58,15 @@ There are three kinds of player:
 * A smart player is a computer player that chooses moves more intelligently: It generates a set of random moves and, for each, checks what its score would be if it were to make that move. Then it picks the one that yields the best score. Smart players cannot smash.
 
 
-#### Application
+### Application
 Full fledged recursive game that has options to play individually, with a computer, in multiplayer, or even letting the computers battle themselves.
 
-#### Dependencies
+### Dependencies
 * pygame
 * python-ta (optional)
 
 
-#### Deployment
+### Deployment
 * Main Files: game.py, block.py, goal.py, player.py
 * Graphical Dependicies: renderer.py
 * Unittest Files: simple_test.py, rectangle_test.py
