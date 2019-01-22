@@ -22,7 +22,6 @@ This is where matters stood, for centuries, until the invention of the computer.
 The Tour of Anne Hoy Game is to move a stack of cheeses from the rst stool to the last stool, using only valid moves as described in the previous paragraphs.
 
 #### Dependencies
-* pygame
 * python-ta (optional)
 
 
