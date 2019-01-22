@@ -1,0 +1,5 @@
+Unfortunetly our run-time is ineffective and through rigourous code-checking
+and troubleshooting, the outcome remained the same. When compressing,
+please be patient. It can take some time. Smaller files can be compressed and
+decompressed easily but the algorithm was trouble of working with
+larger files like book.txt or dan.bmp.
